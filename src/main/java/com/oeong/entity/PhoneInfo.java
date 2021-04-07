@@ -18,6 +18,7 @@ public class PhoneInfo {
     private Integer phoneId;
     private String phoneName;
     private BigDecimal phonePrice; // 大十进制，用来对超过16位有效位的数进行精确运算
+    private String phoneDescription;
     private Integer phoneStock;
     private String phoneIcon;
     private Integer categoryType;
