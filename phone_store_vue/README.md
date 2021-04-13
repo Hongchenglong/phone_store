@@ -37,7 +37,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Vue + Vant UI + less
 
 Vant UI 安装命令
-https://vant-contrib.gitee.io/vant/#/zh-CN/home
 `cnpm i vant -S`
 less 安装命令
 `cnpm install less less-loader --save`
